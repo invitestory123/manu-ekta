@@ -130,8 +130,7 @@ window.WEDDING_DATA = {
             subtitle: "The night has no dress rehearsal",
             time: "30 NOVEMBER | 12:30 AM ONWARDS",
             description: "Metallics, cocktailwear, statement jackets and dance-floor glamour.",
-            caricature: "images/events/art/caricature_midnight_mischief.png",
-            cardImage: "images/events/p14_dresscode_midnight_mischief.png"
+            cardImage: "images/events/p13_event_past_bedtime.png"
           }
         }
       ]
