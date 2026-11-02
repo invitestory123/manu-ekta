@@ -88,8 +88,7 @@ window.WEDDING_DATA = {
             time: "29 NOVEMBER | 3:30 - 6:30 PM",
             description: "Modern dresses, refined co-ords, smart tailoring and soft evening hues.",
             caricature: "images/events/art/caricature_modern_muse.png",
-            cardImage: "images/events/p10_dresscode_modern_muse.png",
-            colors: ["#d3c3b4", "#b2a496", "#e9e1d4", "#9a8773"]
+            cardImage: "images/events/p10_dresscode_modern_muse.png"
           }
         },
         {
@@ -109,8 +108,7 @@ window.WEDDING_DATA = {
             time: "29 NOVEMBER | 8:30 - 11:30 PM",
             description: "Indo-Western: sculpted drapes, velvet bandhgalas, fusion couture.",
             caricature: "images/events/art/caricature_adaa_andaaz.png",
-            cardImage: "images/events/p12_dresscode_adaa_andaaz.png",
-            colors: ["#4b1828", "#332525", "#aa7d5f", "#cdac89"]
+            cardImage: "images/events/p12_dresscode_adaa_andaaz.png"
           }
         },
         {
@@ -132,8 +130,7 @@ window.WEDDING_DATA = {
             time: "30 NOVEMBER | 12:30 AM ONWARDS",
             description: "Metallics, cocktailwear, statement jackets and dance-floor glamour.",
             caricature: "images/events/art/caricature_midnight_mischief.png",
-            cardImage: "images/events/p14_dresscode_midnight_mischief.png",
-            colors: ["#181a1f", "#57525b", "#b69e83", "#a0a4ae"]
+            cardImage: "images/events/p14_dresscode_midnight_mischief.png"
           }
         }
       ]
@@ -190,8 +187,7 @@ window.WEDDING_DATA = {
             time: "30 NOVEMBER | 2:30 - 6:30 PM",
             description: "Airy festive silhouettes, cheerful pastels and comfortable movement.",
             caricature: "images/events/art/caricature_bright_side_baraat.png",
-            cardImage: "images/events/p19_dresscode_bright_side_baraat.png",
-            colors: ["#f3c6b3", "#d3b27a", "#bed3dd", "#efdd9e"]
+            cardImage: "images/events/p19_dresscode_bright_side_baraat.png"
           }
         },
         {
@@ -218,13 +214,13 @@ window.WEDDING_DATA = {
           venueArt: "images/events/art/venue_silver_ball.png",
           cardImage: "images/events/p21_event_silver_ball.png",
           dressCode: {
-            title: "Heritage After Dark",
-            subtitle: "Vintage glamour with a leopard accent",
+            title: "The Modern Glam Edit",
+            act: "THE SILVER BALL / GRAND ANNIVERSARY EVENING",
+            subtitle: "Gowns, tuxedos & elevated evening glamour.",
             time: "30 NOVEMBER | 8:30 PM ONWARDS",
-            description: "Black, oxblood, antique gold; leopard print as an accent, not a costume.",
-            caricature: "images/events/art/caricature_heritage_after_dark.png",
-            cardImage: "images/events/p22_dresscode_heritage_after_dark.png",
-            colors: ["#1c1818", "#50252d", "#ae7f53", "#d1b887"]
+            description: "Evening gowns, tuxedos and elegant formalwear. Dress polished, celebratory and entirely your own.",
+            caricature: "images/events/art/caricature_modern_glam.png",
+            cardImage: "images/events/p22_dresscode_heritage_after_dark.png"
           }
         }
       ]
